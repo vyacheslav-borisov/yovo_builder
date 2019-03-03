@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ToolApplyZone
+  - ScreenAdaptableItem
+  - BuildSection
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Raycast
+  - BuildStack_Ground
+  - BuildStack_Foundation
+  - BuildStack_Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2964485737
+    locked: 0
+  - name: scene
+    uniqueID: 1382524463
+    locked: 0
+  - name: foreground
+    uniqueID: 2064747531
+    locked: 0
+  - name: overlay
+    uniqueID: 4119776115
+    locked: 0
+  - name: drag_n_drop
+    uniqueID: 2889386399
+    locked: 0
